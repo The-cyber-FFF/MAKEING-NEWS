@@ -1,0 +1,10 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local output and dependencies
+dist/
+*.zip
+node_modules/
+.env
