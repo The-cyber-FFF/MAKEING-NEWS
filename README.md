@@ -4,9 +4,9 @@
 
 > 非官方粉丝项目，与 Hypergryph / 鹰角网络、NVIDIA 没有任何关联。
 
-![界面预览](docs/preview.webp)
+![界面预览](preview.webp)
 
-![生成样张](docs/sample-output.webp)
+![生成样张](sample-output.webp)
 
 ## 功能
 
